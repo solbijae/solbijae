@@ -4,7 +4,7 @@ I am a Full-Stack Developer with 3 years of experience, passionate about turning
 
 📝 [Tech Blog](https://medium.com/@jaeyeonjung3)
 
-⚡ learn me more at [JAE YEON JUNG's website](https://solbijae.github.io/jaeyeonjung/)
+⚡ [Learn more about me!](https://solbijae.github.io/jaeyeonjung/)
 
 <!--
 **solbijae/solbijae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
