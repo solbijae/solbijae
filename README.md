@@ -3,6 +3,7 @@
 I am a Full-Stack Developer with 3 years of experience, passionate about turning ideas into reality through code. I enjoy creating, transforming, and bringing new concepts to life. As a self-learner, I continuously seek to grow and refine my skills, embracing challenges as opportunities to innovate and improve.
 
 📝 [Tech Blog](https://medium.com/@jaeyeonjung3)
+
 ⚡ learn me more at [JAE YEON JUNG's website](https://solbijae.github.io/jaeyeonjung/)
 
 <!--
