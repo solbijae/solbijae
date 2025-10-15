@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I am a Full-Stack Developer with 3 years of experience, passionate about turning ideas into reality through code. I enjoy creating, transforming, and bringing new concepts to life. As a self-learner, I continuously seek to grow and refine my skills, embracing challenges as opportunities to innovate and improve.
+I am a Product Manager and Full-Stack Developer with experience leading the entire product lifecycle—from planning and design to development and maintenance. I enjoy identifying problems, designing solutions, and driving their execution while balancing user needs and technical feasibility. As a proactive self-learner, I continuously refine my skills and embrace challenges as opportunities to improve.
 
 📝 [Tech Blog](https://medium.com/@jaeyeonjung3)
 
-⚡ [Learn more about me!](https://solbijae.github.io/jaeyeonjung/)
+⚡ [Learn more about me!](https://jaeyeonjung.netlify.app/)
 
 <!--
 **solbijae/solbijae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
