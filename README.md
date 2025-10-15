@@ -3,6 +3,7 @@
 I am a Product Manager and Full-Stack Developer with experience leading the entire product lifecycle—from planning and design to development and maintenance. I enjoy identifying problems, designing solutions, and driving their execution while balancing user needs and technical feasibility. As a proactive self-learner, I continuously refine my skills and embrace challenges as opportunities to improve.
 
 ⚡ [Portfolio](https://jaeyeonjung.netlify.app/)
+
 📝 [Blog](https://medium.com/@jaeyeonjung3)
 
 <!--
